@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BusesMicroserviceApplication<Buses-Microservice>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "Buses.Buses_Microservice.BusesMicroserviceApplication",
+            "projectName": "Buses-Microservice",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
